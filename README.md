@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=200&section=header&text=Rajul%20%7C%20DevOps%20%26%20Cloud%20Engineer&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Automating%20Infrastructure%20%E2%80%A2%20Building%20Pipelines%20%E2%80%A2%20Scaling%20Systems&descAlignY=58&descSize=16&animation=twinkling" />
+
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
