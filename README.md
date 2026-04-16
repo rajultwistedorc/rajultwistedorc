@@ -25,7 +25,7 @@
 name: Rajul
 role: DevOps / Cloud Infrastructure Engineer
 experience: 2+ years
-location: India
+location: USA
 currently:
   - Deepening expertise in Docker internals & Kubernetes
   - Sharpening CI/CD pipeline design skills
@@ -153,8 +153,8 @@ superpower: Turning manual toil into automated pipelines
 > Let's build something reliable together.
 ```
 
-📩 **Reach out:** [your.email@gmail.com](mailto:your.email@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+📩 **Reach out:** [rajulbalaji02@gmail.com](mailto:rajulbalaji02@gmail.com)  
+💼 **LinkedIn:** [https://www.linkedin.com/in/rajulbalaji/](https://www.linkedin.com/in/rajulbalaji/)
 
 ---
 
